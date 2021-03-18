@@ -2,3 +2,13 @@
     background: #06376c;
     color: white;
 }
+
+.container.converter {
+    min-height: 191px;
+    padding: 5%;
+    background: white;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    box-shadow: 1px 1px 10px #272727;
+    color: darkgrey;
+}
